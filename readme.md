@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://galaxy-generator-kohl.vercel.app/
+[Galaxy Generator](https://galaxy-generator-kohl.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
